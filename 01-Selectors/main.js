@@ -3,7 +3,7 @@ start with jquery:
     jquery.com -> download / CDN / version / minified
 */
 
-// selectors
+// ------------------------------------- Selectors ---------------------------------------
 $('h1').hide();
 $('p span').css('color', 'red');
 $('h1#heading1').hide();
